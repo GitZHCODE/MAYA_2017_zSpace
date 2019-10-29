@@ -25,9 +25,9 @@ v0.2
 * to reinstall after e.g. pulling a newer version of the plugin follow the steps of **Install** again
 ---
 ---
-## Plugins
+## Documentation
 ---
-
+The documentation is under development. You can find a wip version of it [here](https://gitzhcode.github.io/ZHCODE_toolsets_documentation/) or have a look below.
 ### zSpace_IO
 ##### export curves to TXT
 * with individual curves selected it exports them as individual graphs
